@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "pntxlv",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "d47b59b5-007a-4c0e-81ae-dd7635b57120",
+			"database_name": "pntxlv"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
